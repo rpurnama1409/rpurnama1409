@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://fb.com/rpurnama14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rpurnama14" height="30" width="40" /></a>
 <a href="https://instagram.com/rpurnama14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rpurnama14" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/rpurnama14" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" alt="rpurnama14" height="30" width="40" /></a>
 </p>
 
 <div class="badge-base LI-profile-badge" data-locale="in_ID" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="randy-purnama-7a2025120" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/randy-purnama-7a2025120?trk=profile-badge">Randy Purnama</a></div>
