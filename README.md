@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Randy Purnama</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rpurnam1409" alt="rpurnam1409" /></a> </p>
-
 - 🔭 I’m currently working on [PT.Sawarga Digital Indonesia](sadigit.co.id)
 
 - 👨‍💻 All of my projects are available at [sadigit.co.id](sadigit.co.id)
